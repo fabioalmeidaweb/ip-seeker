@@ -1,6 +1,6 @@
 module ip-seeker
 
-go 1.21.4
+go 1.21
 
 require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
